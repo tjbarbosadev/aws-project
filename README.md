@@ -78,7 +78,7 @@
 ### 3. Criar Script de Monitoramento
 1. Crie o script Bash para verificar o status do Apache:
    ```bash
-   sudo nano monitor_apache.sh
+   sudo vim monitor_apache.sh
    ```
 2. Adicione o seguinte conteúdo:
    ```bash
